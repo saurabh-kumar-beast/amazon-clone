@@ -1,2 +1,2 @@
 # amazon-clone
-this is my first repo in github
+this is my first repo in github repository
